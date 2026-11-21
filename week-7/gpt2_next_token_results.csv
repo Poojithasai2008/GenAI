@@ -1,0 +1,25 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+Artificial Intelligence,1.0,1,357,' (',-84.2154,-84.2154,13.21
+Artificial Intelligence,1.0,2,198,'\n',-84.6743,-84.6743,8.35
+Artificial Intelligence,1.0,3,290,' and',-84.8249,-84.8249,7.18
+Artificial Intelligence,1.0,4,11,"','",-85.1608,-85.1608,5.13
+Artificial Intelligence,1.0,5,25,':',-85.18,-85.18,5.03
+Artificial Intelligence,1.0,6,318,' is',-85.1944,-85.1944,4.96
+1.0,1.0,1,13,'.',-58.954,-58.954,29.67
+1.0,1.0,2,8,')',-60.4049,-60.4049,6.95
+1.0,1.0,3,11,"','",-61.1046,-61.1046,3.45
+1.0,1.0,4,14,'/',-61.344,-61.344,2.72
+1.0,1.0,5,12,'-',-61.3877,-61.3877,2.6
+1.0,1.0,6,198,'\n',-61.5607,-61.5607,2.19
+what are tokens?,5.0,1,198,'\n',-104.9834,-20.9967,0.04
+what are tokens?,5.0,2,1867,' What',-106.6399,-21.328,0.03
+what are tokens?,5.0,3,1374,' How',-107.3348,-21.467,0.02
+what are tokens?,5.0,4,628,'\n\n',-107.7202,-21.544,0.02
+what is,4.0,1,262,' the',-79.8559,-19.964,0.04
+what is,4.0,2,340,' it',-80.6721,-20.168,0.03
+The capital of india is,1.0,1,262,' the',-96.5054,-96.5054,8.01
+The capital of india is,1.0,2,257,' a',-97.2395,-97.2395,3.85
+The capital of india is,1.0,3,1900,' known',-97.8304,-97.8304,2.13
+The capital of india is,1.0,4,783,' now',-97.8346,-97.8346,2.12
+The capital of india is,1.0,5,635,' also',-97.869,-97.869,2.05
+The capital of india is,1.0,6,287,' in',-97.8888,-97.8888,2.01
